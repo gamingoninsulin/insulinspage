@@ -33,6 +33,15 @@ div .minecraft {
     text-align: center;
     margin: 0;
 }
+.tab {
+    margin-left: 40px;
+}
+.tabtab {
+    margin-left: 80px;
+}
+#alineRight {
+    float: right;
+}
 div .devider {
     padding-top: 25px;
     padding-bottom: 25px;
